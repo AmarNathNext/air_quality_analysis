@@ -1,6 +1,6 @@
 # PM2.5 Air Quality Analysis and Regression
 
-## Project OvervieZ
+## Project Overview
 
 This project explores air quality data and applies machine learning regression techniques to predict PM2.5 concentrations using meteorological and atmospheric variables.
 
